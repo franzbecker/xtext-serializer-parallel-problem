@@ -1,0 +1,20 @@
+### Xtext ###
+plugin.xml_gen
+
+### Java ###
+*.class
+*.jar
+
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+Eclipse.app
+.recommenders
